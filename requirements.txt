@@ -1,0 +1,6 @@
+Flask
+PyPDF2
+pikepdf
+pdf2docx
+pdf2image
+Pillow
